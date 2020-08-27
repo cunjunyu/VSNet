@@ -41,7 +41,7 @@ class VSNet(object):
 
 
 def main():
-    model = '/home/xinmatrix/models/ycj/VSNet-8connectors-900train/model.pth'
+    model = './model.pth'
     img_a = './test_img/image_a.png'
     img_b = './test_img/image_b.png'
     label_a_path = './six_dof_1cm5deg/label/607.txt'
