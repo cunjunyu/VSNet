@@ -1,7 +1,7 @@
 # VSNet
 Code for 'Siamese Convolutional Neural Network for Sub-millimeter-accurate Camera Pose Estimation and Visual Servoing'
 
-Notice the repo is still in progress, we only provide code to train the neural network. Code to for ROS and robotic arm control is not included. 
+Notice the repo is still in progress, we only provide code to train the neural network. Code for ROS and robotic arm control is not included. 
 
 ## Dataset
 
